@@ -27,6 +27,6 @@
         transform: rotateZ(360deg);
     }
 }
-.screen-header__icons .fa-cog{
-    animation: RotateCog 3s linear infinite;
+.screen-header__icons .fa-cog {
+    animation: RotateCog 5s linear infinite;
 }

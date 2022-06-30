@@ -1,11 +1,12 @@
 .alt-header {
     padding: var(--horizontal-space);
-    margin-bottom: 15px;
+    margin: 15px 0px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
   .alt-header__column {
+    margin-top: 15px;
     width: 33%;
   }
   

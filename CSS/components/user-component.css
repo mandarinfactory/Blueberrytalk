@@ -6,6 +6,7 @@
 .user-component__column:first-child{
     display: flex;
     align-items: center;
+    margin-bottom: 10px;
 }
 
 .user-component__avatar{
@@ -43,6 +44,7 @@
 }
 
 .user-component__title--not-bold{
+    font-size: 18px;
     font-weight: 500;
 }
 
